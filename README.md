@@ -2,8 +2,9 @@
 K近邻算法是机器学习与数据挖掘领域的经典算法，使用Java复现了该经典算法与其相关改进算法。
 上述代码可以在WEKA平台上运行。
 WEKA仓库：https://github.com/Waikato/weka-3.8
-K近邻算法：
 
+K近邻算法：
+Guo, Gongde, et al. "KNN model-based approach in classification." OTM Confederated International Conferences" On the Move to Meaningful Internet Systems". Berlin, Heidelberg: Springer Berlin Heidelberg, 2003.
 相关改进算法：
 EkNN：
 Denoeux T. A k-nearest neighbor classification rule based on 
